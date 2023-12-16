@@ -8,3 +8,12 @@ If you are a student currently enrolled in CS50, it's recommended not to refer t
 
 This repository is a showcase of my understanding and approach to solving problems presented in the CS50 course and serves as a reference for others interested in learning or exploring similar concepts.
 
+## Setup
+
+* install requirements
+
+```pip install requirements.txt```
+
+* run code
+
+```python3 runner.py```
